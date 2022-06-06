@@ -4,7 +4,7 @@ import pickle
 from game import Game
 import sys as sys
 
-server = "192.168.1.81"
+server = "192.168.1.33"
 port = 15200
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
